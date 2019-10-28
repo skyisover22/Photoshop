@@ -1,0 +1,13 @@
+C:\Users\пользователь\Downloads\_Photoshop\bin\Debug\cat.jpg
+C:\Users\пользователь\Downloads\_Photoshop\bin\Debug\MyPhotoshop.exe
+C:\Users\пользователь\Downloads\_Photoshop\bin\Debug\MyPhotoshop.pdb
+C:\Users\пользователь\Downloads\_Photoshop\obj\x86\Debug\Photoshop.csprojResolveAssemblyReference.cache
+C:\Users\пользователь\Downloads\_Photoshop\obj\x86\Debug\Photoshop.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Downloads\_Photoshop\obj\x86\Debug\MyPhotoshop.exe
+C:\Users\пользователь\Downloads\_Photoshop\obj\x86\Debug\MyPhotoshop.pdb
+C:\Users\_мостовов\Desktop\_Photoshop\bin\Debug\cat.jpg
+C:\Users\_мостовов\Desktop\_Photoshop\bin\Debug\MyPhotoshop.exe
+C:\Users\_мостовов\Desktop\_Photoshop\bin\Debug\MyPhotoshop.pdb
+C:\Users\_мостовов\Desktop\_Photoshop\obj\x86\Debug\Photoshop.csprojAssemblyReference.cache
+C:\Users\_мостовов\Desktop\_Photoshop\obj\x86\Debug\MyPhotoshop.exe
+C:\Users\_мостовов\Desktop\_Photoshop\obj\x86\Debug\MyPhotoshop.pdb
